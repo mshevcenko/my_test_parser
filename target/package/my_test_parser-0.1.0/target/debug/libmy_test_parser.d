@@ -1,1 +1,0 @@
-C:\Users\Misha\rust-learning-path\my_test_parser\target\package\my_test_parser-0.1.0\target\debug\libmy_test_parser.rlib: C:\Users\Misha\rust-learning-path\my_test_parser\target\package\my_test_parser-0.1.0\src\lib.rs
